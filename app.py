@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 
-st.title("this my first app of ML" )
+st.title("BASSAM IS SHIT" )
 
 model = joblib.load("model1.pkl")
 
